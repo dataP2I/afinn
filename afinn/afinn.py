@@ -13,6 +13,7 @@ from os.path import dirname, join
 LANGUAGE_TO_FILENAME = {
     'da': 'AFINN-da-32.txt',
     'en': 'AFINN-en-165.txt',
+    'id': 'AFINN-id-16.txt',
     'emoticons': 'AFINN-emoticon-8.txt',
     }
 
