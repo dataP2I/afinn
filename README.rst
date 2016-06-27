@@ -2,6 +2,7 @@ afinn
 =====
 
 AFINN sentiment analysis in Python: Wordlist-based approach for sentiment analysis.
+https://github.com/fnielsen/afinn
 
 Examples
 --------
