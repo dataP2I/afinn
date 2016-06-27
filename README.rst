@@ -10,6 +10,13 @@ Examples
     >>> afinn = Afinn()
     >>> afinn.score('This is utterly excellent!')
     3.0
+
+In Indonesian:
+
+    >>> afinn = Afinn(language='id')
+    >>> afinn.score('Tidak ada yang abadi')
+    1.0
+
     
 In Danish:
 
